@@ -1,15 +1,11 @@
-# COSC 219 Portfolio Website
+## Lab 2 Update
 
-This is my personal portfolio website created for COSC 219. The website contains information about me, my interests, and some of the skills and projects I am working on.
+For Lab 2, I added a contact page with a form containing name, email, subject, contact method, updates, and message fields. I also added an external stylesheet that is shared across all four pages.
 
-## Live Website
+### Styling Decision
 
-https://supremedreezy-bot.github.io/cosc219-site/
+I chose green as the main colour for the website because it gives the site a simple and consistent appearance. I also used consistent spacing throughout the pages to improve readability.
 
-## Challenges
+### AI Use
 
-One thing I found difficult was understanding how Git, GitHub, and GitHub Pages work together to publish a website.
-
-## AI Use Declaration
-
-I used ChatGPT to help me understand the lab instructions, Git commands, and to troubleshoot my work while completing this lab.
+I used AI to troubleshoot my code, and understand HTML and CSS concepts.
